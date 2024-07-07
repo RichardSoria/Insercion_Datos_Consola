@@ -16,6 +16,7 @@ public class Main
 
         while (true)
         {
+            System.out.println("Sistema de gestión de estudiantes.");
             System.out.println("Presione 1 para ingresar un nuevo estudiante.");
             System.out.println("Presione 2 para listar los estudiantes.");
             System.out.println("Presione 0 para salir.");
